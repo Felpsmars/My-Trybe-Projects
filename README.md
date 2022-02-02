@@ -4,7 +4,7 @@ Guia De links referente aos projetos feitos no meus estudos na Trybe.
 
 ### 2021
 
-## TRYBE - Fundamentos JavaScript, HTML e CSS
+## TRYBE - Fundamentos JavaScript, HTML, CSS e Lógica de Programação
 
 Projeto de Introdução à HTML e CSS - [lesson learned](https://github.com/Felpsmars/Project-Lessons-Learned)
 
