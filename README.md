@@ -1,7 +1,5 @@
 # My Trybe Projects
 
-# Seja bem vindo ao meu portifolio
-
 Guia De links referente aos projetos feitos no meus estudos na Trybe.
 
 ### 2021
