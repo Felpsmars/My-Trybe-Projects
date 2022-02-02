@@ -40,7 +40,7 @@ Projeto de Context API e React Hooks - [starwars planets](https://github.com/Fel
 
 Projeto de finalização de modulo utilizando todos os conteúdos de front-end - [Recipes-App](https://github.com/Felpsmars/Project-recipes-app)
 
-## TRYBE - Back end: [ banco de dados ]
+## TRYBE - Back end: [ Docker, MySQL, Node.js, TypeScript ]
 Projeto de introdução aos comandos Docker - [docker to do list](https://github.com/Felpsmars/Project-docker-todo-list)
 
 Projeto de introdução aos comandos de mysql - [Mysql all for one](https://github.com/0xguidev/mysql-all-for-one)
