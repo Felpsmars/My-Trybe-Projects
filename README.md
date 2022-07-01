@@ -50,3 +50,18 @@ Projeto de criação e popular um banco de dados SQL - [Mysql one for all](https
 Projeto de criação e utilização de endpoints em Node.js - [Talker manager](https://github.com/Felpsmars/Project-talker-manager)
 
 Projeto de criação de uma api em Node.js com divisão de camadas (MSC) e testes únitarios - [Store Manager](https://github.com/Felpsmars/Project-Store-Manager)
+
+Projeto de construção de um back-end usando ORM com o pacote sequelize - [Blogs Api](https://github.com/Felpsmars/Project-Blogs-Api)
+
+Projeto de introdução e aplicação do heroku em um projeto simples com front e backend - [Stranger Things Backend](https://github.com/Felpsmars/Project-Stranger-Things-Backend) // [Stranger Things Frontend](https://github.com/Felpsmars/Project-Stranger-Things-Frontend)
+
+Projeto de Construção de uma API Node Express utilizando o Typescript - [Trybesmith](https://github.com/Felpsmars/Project-TrybeSmith)
+
+Projeto focado em exercitar os conhecimento dos pilares da Programação Orientada a Objetos - [Trybe And Dragons](https://github.com/Felpsmars/Project-Trybers-And-Dragons)
+
+Projeto de construção de um back-end dockerizado utilizando modelagem de dados através do Sequelize - [Trybe Futebol Club](https://github.com/Felpsmars/Project-Trybe-Futebol-Club)
+
+Projeto com foco na criação e utilização de um banco de dados MongoDB - [MongoDB Commerce](https://github.com/Felpsmars/Project-MongoDB-Commerce)
+
+Projeto com foco em aplicar os conhecimentos de MongoDB, Typescript e POO para criar uma API com CRUD. - [Car Shop](https://github.com/Felpsmars/Project-Car-Shop)
+
