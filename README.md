@@ -48,3 +48,5 @@ Projeto de introdução aos comandos de mysql - [Mysql all for one](https://gith
 Projeto de criação e popular um banco de dados SQL - [Mysql one for all](https://github.com/Felpsmars/Project-mysql-one-for-all)
 
 Projeto de criação e utilização de endpoints em Node.js - [Talker manager](https://github.com/Felpsmars/Project-talker-manager)
+
+Projeto de criação de uma api em Node.js com divisão de camadas (MSC) e testes únitarios - [Store Manager](https://github.com/Felpsmars/Project-Store-Manager)
